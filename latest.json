@@ -1,9 +1,6 @@
 {
-  "version": "1.0.1",
-  "platforms": {
-    "windows": {
-      "url": "PASTE_YOUR_DIRECT_DOWNLOAD_URL_HERE",
-      "signature": "PASTE_YOUR_SIGNATURE_HERE"
-    }
-  }
+  "version": "1.0.0",
+  "url": "https://github.com/max-studio-2244/MAX-Launcher/releases/download/Minecraft/MAX-Launcher.exe",
+  "sha256": "2D959C7E6406DA766165E545D395B66E1E6D0B086173231D3B1EA9B488B8CC7E"
 }
+
