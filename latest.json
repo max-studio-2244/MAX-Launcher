@@ -1,0 +1,9 @@
+{
+  "version": "1.0.1",
+  "platforms": {
+    "windows": {
+      "url": "PASTE_YOUR_DIRECT_DOWNLOAD_URL_HERE",
+      "signature": "PASTE_YOUR_SIGNATURE_HERE"
+    }
+  }
+}
